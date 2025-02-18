@@ -1,2 +1,2 @@
 # Fire-recovery-time
-A Dominant Role of Increased Fire Severity in Prolonged Natural Recovery Time of Global Forests Following Extreme Large-scale Fires Since 2010
+Increasing fire severity prolongs recovery time of forests globally since 2001
